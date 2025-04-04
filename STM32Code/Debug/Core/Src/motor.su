@@ -1,0 +1,4 @@
+../Core/Src/motor.c:13:6:reset_motor	16	static
+../Core/Src/motor.c:58:17:convert_to_speed	32	static
+../Core/Src/motor.c:71:6:set_motor_direction	24	static
+../Core/Src/motor.c:117:6:run_motor_test_sequence	24	static
